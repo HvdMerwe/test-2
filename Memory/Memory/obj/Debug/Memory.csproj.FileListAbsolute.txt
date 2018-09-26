@@ -1,0 +1,6 @@
+c:\users\hvdmerwe.vpn\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\Hvdmerwe.VPN\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\Hvdmerwe.VPN\documents\visual studio 2015\Projects\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\Hvdmerwe.VPN\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache
+C:\Users\Hvdmerwe.VPN\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\Hvdmerwe.VPN\documents\visual studio 2015\Projects\Memory\Memory\obj\Debug\Memory.pdb
